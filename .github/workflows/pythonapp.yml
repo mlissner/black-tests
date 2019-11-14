@@ -11,4 +11,3 @@ jobs:
         with:
           args: ". --check"
         working-directory: ~/
-        run: ls
