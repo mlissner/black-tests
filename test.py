@@ -1,2 +1,1 @@
-x = ['asdf',
-'asdf']
+x = ['asdf', 'asdf']
