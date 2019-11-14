@@ -10,3 +10,5 @@ jobs:
         uses: lgeiger/black-action@master
         with:
           args: ". --check"
+        working-directory: ~/
+        run: ls
